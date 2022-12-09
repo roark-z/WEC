@@ -1,2 +1,2 @@
-# WEC
-Walter E. Clements: Wakfu bot
+# Decoupled Vision
+Test a decoupled vision and RL system
